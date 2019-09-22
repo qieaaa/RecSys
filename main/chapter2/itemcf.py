@@ -5,7 +5,7 @@ Created on 2018年6月15日
 
 @author: qcymkxyc
 '''
-from main.chapter2 import UserCF
+from main.chapter2.usercf import UserCF
 from collections import defaultdict
 import math
 from operator import itemgetter
